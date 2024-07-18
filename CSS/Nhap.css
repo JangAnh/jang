@@ -11,12 +11,6 @@
 	left: 400px; bottom: 80px;
 	width: 200px; height: 147px;
 	position: absolute;
-	-webkit-animation-name: Crab2;
-	-webkit-animation-duration: 10s;
-	-webkit-animation-timing-function: linear;
-	-webkit-animation-iteration-count: infinite;
-	-webkit-animation-play-state: running;	
-	
 }
 
 #crab3
